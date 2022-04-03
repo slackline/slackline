@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on imporving.
 - 🌱 I’m currently learning Python, Emacs Org and LISP as well as Bayesian Statistics and Causal Inference.
 <!-- - 👯 I’m looking to collaborate on interesting projects -->

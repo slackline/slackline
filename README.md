@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on imporving.
 - 🌱 I’m currently learning Python, Emacs Org and LISP as well as Bayesian Statistics and Causal Inference.
-- 👯 I’m looking to collaborate on interesting projects
+<!-- - 👯 I’m looking to collaborate on interesting projects -->
 - 🤔 I’m looking for help with life, the universe and everything.
 - 💬 Ask me about anything, I might not be able to answer
-- ⚡ Fun fact: 
+- ⚡ Fun facts: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slackline&count_private=true&show_icons=true&theme=blueberry)
 

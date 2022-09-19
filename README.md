@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on imporving.
-- 🌱 I’m currently learning Python, Emacs Org and LISP as well as Bayesian Statistics and Causal Inference.
+- 🔭 I’m currently working on improving my general computing skills.
+- 🌱 I’m continually learning Python, Emacs Org, LISP, CI/CD on GitHub/GitLab/Jenkins as well as Bayesian Statistics and Causal Inference.
 <!-- - 👯 I’m looking to collaborate on interesting projects -->
 - 🤔 I’m looking for help with life, the universe and everything.
 - 💬 Ask me about anything, I might not be able to answer
